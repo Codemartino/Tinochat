@@ -49,7 +49,7 @@ export default function Rightbar({ profile }) {
               alt=""
               className="rightbarFollowingImg"
             />
-            <span className="rightbarFollowingName">John Carter</span>
+            <span className="rightbarFollowingName">Code Martino</span>
           </div>
           <div className="rightbarFollowing">
             <img
@@ -57,7 +57,7 @@ export default function Rightbar({ profile }) {
               alt=""
               className="rightbarFollowingImg"
             />
-            <span className="rightbarFollowingName">John Carter</span>
+            <span className="rightbarFollowingName">Code Martino</span>
           </div>
           <div className="rightbarFollowing">
             <img
@@ -65,7 +65,7 @@ export default function Rightbar({ profile }) {
               alt=""
               className="rightbarFollowingImg"
             />
-            <span className="rightbarFollowingName">John Carter</span>
+            <span className="rightbarFollowingName">Code Martino</span>
           </div>
           <div className="rightbarFollowing">
             <img
@@ -73,23 +73,23 @@ export default function Rightbar({ profile }) {
               alt=""
               className="rightbarFollowingImg"
             />
-            <span className="rightbarFollowingName">John Carter</span>
+            <span className="rightbarFollowingName">Code Martino</span>
           </div>
           <div className="rightbarFollowing">
             <img
-              src="assets/person/5.jpeg"
+              src="assets/person/5.jpg"
               alt=""
               className="rightbarFollowingImg"
             />
-            <span className="rightbarFollowingName">John Carter</span>
+            <span className="rightbarFollowingName">Code Martino</span>
           </div>
           <div className="rightbarFollowing">
             <img
-              src="assets/person/6.jpeg"
+              src="assets/person/6.jpg"
               alt=""
               className="rightbarFollowingImg"
             />
-            <span className="rightbarFollowingName">John Carter</span>
+            <span className="rightbarFollowingName">Code Martino</span>
           </div>
         </div>
       </>
