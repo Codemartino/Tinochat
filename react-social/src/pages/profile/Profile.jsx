@@ -15,7 +15,7 @@ export default function Profile() {
             <div className="profileCover">
               <img
                 className="profileCoverImg"
-                src="assets/post/4.jpg"
+                src="assets/post/12.jpg"
                 alt=""
               />
               <img
@@ -25,7 +25,7 @@ export default function Profile() {
               />
             </div>
             <div className="profileInfo">
-                <h4 className="profileInfoName">Sir Martin</h4>
+                <h4 className="profileInfoName">John Joana</h4>
                 <span className="profileInfoDesc">Hello my friends!</span>
             </div>
           </div>
