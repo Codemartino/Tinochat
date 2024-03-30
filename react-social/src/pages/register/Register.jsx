@@ -35,7 +35,7 @@ export default function Register() {
         <div className="loginLeft">
           <h3 className="loginLogo">Tinosocial</h3>
           <span className="loginDesc">
-            Connect with friends and the world around you on Tinosocial.
+            Connect with developers and the world around you on Tinosocial.
           </span>
         </div>
         <div className="loginRight">
