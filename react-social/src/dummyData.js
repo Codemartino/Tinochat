@@ -46,7 +46,7 @@ export const Users = [
   },
   {
     id:10,
-    profilePicture: "post/person/10.jpeg",
+    profilePicture: "post/10.jpg",
     username: "Mark Azumah",
   },
 ];
